@@ -15,10 +15,10 @@ public class lection2logfile {
 
         logger.addHandler(fh);
 
-        Formatter sFormat = new SimpleFormatter();
-        fh.setFormatter(sFormat);
-        // XMLFormatter xml = new XMLFormatter();
-        // fh.setFormatter(xml);
+        // SimpleFormatter sFormat = new SimpleFormatter();
+        // fh.setFormatter(sFormat);
+        XMLFormatter xml = new XMLFormatter();
+        fh.setFormatter(xml);
 
         // logger.setLevel(Level.INFO);
         logger.log(Level.WARNING, "Тестовое логирование 1");
