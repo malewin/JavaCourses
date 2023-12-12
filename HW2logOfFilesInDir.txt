@@ -1,0 +1,11 @@
+log.config
+lection
+task6.txt
+HW2logOfFilesInDir.txt
+TEST
+test100.txt
+homework
+seminars
+log.xml
+.git
+log.0.0.txt
