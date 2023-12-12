@@ -13,6 +13,7 @@ public class rrzborHW2log {
 
 
     public static void main(String[] args) {
+        LOG.log(Level.INFO, "main method is started");
         System.out.println(Arrays.toString(getFileNamesInDir()));
         write();
         

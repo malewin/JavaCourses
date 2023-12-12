@@ -1,2 +1,156 @@
 дек. 12, 2023 10:31:18 AM seminars.rrzborHW2log write
 INFO: Some kind of mistake
+дек. 12, 2023 10:58:40 AM seminars.rrzborHW2log main
+INFO: main method is started
+дек. 12, 2023 2:41:50 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 2:41:51 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 2:41:51 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 2:41:51 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 2:51:50 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 2:51:50 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 2:51:50 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 2:51:50 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 2:52:30 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 9, 3, 0]
+дек. 12, 2023 2:52:30 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 9, 0]
+дек. 12, 2023 2:52:30 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 0, 9]
+дек. 12, 2023 2:52:30 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 0, 3, 9]
+дек. 12, 2023 4:23:32 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:23:32 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:23:32 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:23:32 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:25:18 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:25:18 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:25:18 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:25:18 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:30:28 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:30:28 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:30:28 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:30:28 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:39:11 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:39:11 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:39:11 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:39:11 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:39:35 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:39:35 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:39:35 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:39:35 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:40:02 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:40:02 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:40:02 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:40:02 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:41:03 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:41:03 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:41:03 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:41:03 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:41:22 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:41:22 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:41:22 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:41:22 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:47:22 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:47:22 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:47:22 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:47:22 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-1, -5, 9, 3, 0]
+дек. 12, 2023 4:49:01 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 9, 3, 0]
+дек. 12, 2023 4:49:01 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 9, 0]
+дек. 12, 2023 4:49:01 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 0, 9]
+дек. 12, 2023 4:49:01 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 0, 3, 9]
+дек. 12, 2023 4:50:38 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 9, 3, 0]
+дек. 12, 2023 4:50:38 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 9, 0]
+дек. 12, 2023 4:50:38 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 0, 9]
+дек. 12, 2023 4:50:38 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 0, 3, 9]
+дек. 12, 2023 4:51:36 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 9, 3, 0]
+дек. 12, 2023 4:51:36 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 9, 0]
+дек. 12, 2023 4:51:36 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 0, 9]
+дек. 12, 2023 4:51:36 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 0, 3, 9]
+дек. 12, 2023 5:05:13 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 9, 3, 0]
+дек. 12, 2023 5:05:13 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 9, 0]
+дек. 12, 2023 5:05:13 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 0, 9]
+дек. 12, 2023 5:05:13 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 0, 3, 9]
+дек. 12, 2023 5:06:53 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 9, 3, 0]
+дек. 12, 2023 5:06:53 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 9, 0]
+дек. 12, 2023 5:06:53 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 0, 9]
+дек. 12, 2023 5:06:53 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 0, 3, 9]
+дек. 12, 2023 5:10:39 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 9, 3, 0]
+дек. 12, 2023 5:10:40 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 9, 0]
+дек. 12, 2023 5:10:40 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 0, 9]
+дек. 12, 2023 5:10:40 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 0, 3, 9]
+дек. 12, 2023 5:11:28 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 9, 3, 0]
+дек. 12, 2023 5:11:28 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 9, 0]
+дек. 12, 2023 5:11:28 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 3, 0, 9]
+дек. 12, 2023 5:11:28 PM homework.hw2BubbleSortingInLog$BubbleSort sort
+INFO: [-5, -1, 0, 3, 9]

@@ -4,6 +4,7 @@ task6.txt
 HW2logOfFilesInDir.txt
 TEST
 test100.txt
+log.0.0.txt.lck
 homework
 seminars
 log.xml

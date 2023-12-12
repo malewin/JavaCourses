@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE log SYSTEM "logger.dtd">
-<log>
-<record>
-  <date>2023-12-09T02:47:05.204008Z</date>
-  <millis>1702090025204</millis>
-  <nanos>8000</nanos>
-  <sequence>0</sequence>
-  <logger>lection.lection2logfile</logger>
-  <level>WARNING</level>
-  <class>lection.lection2logfile</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Тестовое логирование 1</message>
-</record>
-<record>
-  <date>2023-12-09T02:47:05.244814Z</date>
-  <millis>1702090025244</millis>
-  <nanos>814000</nanos>
-  <sequence>1</sequence>
-  <logger>lection.lection2logfile</logger>
-  <level>INFO</level>
-  <class>lection.lection2logfile</class>
-  <method>main</method>
-  <thread>1</thread>
-  <message>Тестовое логирование 2</message>
-</record>
-</log>
+дек. 12, 2023 4:59:56 PM lection.lection2logfile main
+WARNING: Тестовое логирование 1
+дек. 12, 2023 4:59:56 PM lection.lection2logfile main
+INFO: Тестовое логирование 2
