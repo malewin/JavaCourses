@@ -1,6 +1,7 @@
 package seminars;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Random;
@@ -15,6 +16,8 @@ public class seminar3ArrayListSort {
         for (int i = 0; i < n; i++) {
             list.add(random.nextInt(10)); 
         }
+        System.out.println(list);
+        Collections.reverse(list); // класс Collections  содержит много методов для преобразования коллекций
         System.out.println(list);
         list.sort(null); // от меньшего к большему
         System.out.println(list);

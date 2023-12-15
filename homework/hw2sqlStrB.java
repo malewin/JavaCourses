@@ -6,9 +6,7 @@
 // String QUERY - начало SQL-запроса
 // String PARAMS - JSON  с параметрами
 
-
 package homework;
-
 
 public class hw2sqlStrB {
     
