@@ -32,8 +32,8 @@ public class MyStack {
     public void push(int element) {
         if (isFull()) {
             addCapacity();
-            values[++top] = element;
-            size++;
+        values[++top] = element;
+        size++;
         }
     }
 
