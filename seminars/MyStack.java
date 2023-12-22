@@ -31,10 +31,9 @@ public class MyStack {
 
     public void push(int element) {
         if (isFull()) {
-            addCapacity();
+            addCapacity();}
         values[++top] = element;
         size++;
-        }
     }
 
     private boolean isFull() {
@@ -42,11 +41,16 @@ public class MyStack {
     }
 
     public int peek() {
-        if (!empty()) {
+        try{
             return values[top];
-        } else {
+        } catch(ArrayIndexOutOfBoundsException e){
             throw new RuntimeException("Stack is empty");
         }
+        // if (!empty()) {
+        //     return values[top];
+        // } else {
+        //     throw new RuntimeException("Stack is empty");
+        // }
     }
 
     public int pop() {
@@ -59,7 +63,7 @@ public class MyStack {
 
     @Override
     public String toString(){
-        StringBuilder builder = new StringBuilder();
+        StringBuilder builder = new StringBuilder("[");
         for (int i = 0; i < size; i++) {
             builder.append(values[i]).append(", ");
         }
